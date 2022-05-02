@@ -6,3 +6,7 @@ Api url = covid19api.com
 <img src="covid.png">
 
 <img src="images/bg_1.jpg">
+
+<img src="images/bg_2.jpg">
+
+<img src="images/bg_3.jpg">

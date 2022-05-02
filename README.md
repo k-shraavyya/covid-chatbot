@@ -10,3 +10,7 @@ Api url = covid19api.com
 <img src="images/bg_2.jpg">
 
 <img src="images/bg_3.jpg">
+
+<img src="images/Chatbot1.png">
+
+<img src="images/chatbot2.png">
